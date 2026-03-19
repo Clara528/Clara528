@@ -1,6 +1,6 @@
 # Olá 👋 
 
-  ![Discord Banner (1)](https://github.com/user-attachments/assets/eef1a857-7a30-456c-ac12-3e72bb046b60)
+ ![Discord Banner (1)](https://github.com/user-attachments/assets/eef1a857-7a30-456c-ac12-3e72bb046b60)
 
 #  Bem Vindos ao perfil de uma estudante de informática :panda_face::panda_face:
 
