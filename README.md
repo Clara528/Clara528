@@ -4,11 +4,11 @@
 
 #  Bem Vindos ao perfil de uma estudante de informática :bear::panda_face:
 
-## Meu Nome é Ana Clara :heart: :heart:
+# Meu Nome é Ana Clara :heart: :heart:
 
 # :mortar_board: Minhas Informações:
 
-## Sou Estudante de Técnico Informática e estou no 2° Ano do Ensino Médio. Tenho 15 anos e meu objetivo de faculdade é atuar na área de Perícia Criminal ou na área de informática.
+# Sou Estudante de Técnico Informática e estou no 2° Ano do Ensino Médio. Tenho 15 anos e meu objetivo de faculdade é atuar na área de Perícia Criminal ou na área de informática.
 
 # :red_circle: Meus Contatos:
 
